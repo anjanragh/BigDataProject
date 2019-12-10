@@ -1,0 +1,3879 @@
+{
+    "predicted_types": [
+        {
+            "column_name": "website",
+            "semantic_types": [
+                {
+                    "semantic_type": "website",
+                    "label": "website",
+                    "count": 439
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "website",
+                    "count": 316
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "website",
+                    "count": 17
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "website",
+                    "count": 14
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "website",
+                    "count": 6
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "website",
+                    "count": 5
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "website",
+                    "count": 3
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "website",
+                    "count": 1
+                },
+                {
+                    "semantic_type": "address",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "person_name",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "website",
+                    "count": 0
+                }
+            ]
+        },
+        {
+            "column_name": "BOROUGH___COMMUNITY",
+            "semantic_types": [
+                {
+                    "semantic_type": "address",
+                    "label": "address",
+                    "count": 106
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "address",
+                    "count": 106
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "address",
+                    "count": 105
+                },
+                {
+                    "semantic_type": "person_name",
+                    "label": "address",
+                    "count": 85
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "address",
+                    "count": 76
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "address",
+                    "count": 19
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "address",
+                    "count": 8
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "address",
+                    "count": 116
+                }
+            ]
+        },
+        {
+            "column_name": "CORE_SUBJECT",
+            "semantic_types": [
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "subject_in_school",
+                    "count": 7035
+                },
+                {
+                    "semantic_type": "person_name",
+                    "label": "subject_in_school",
+                    "count": 5277
+                },
+                {
+                    "semantic_type": "address",
+                    "label": "subject_in_school",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "subject_in_school",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "subject_in_school",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "subject_in_school",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "subject_in_school",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "subject_in_school",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "subject_in_school",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "subject_in_school",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "subject_in_school",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "subject_in_school",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "subject_in_school",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "subject_in_school",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "subject_in_school",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "subject_in_school",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "subject_in_school",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "subject_in_school",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "subject_in_school",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "subject_in_school",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "subject_in_school",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "subject_in_school",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "subject_in_school",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "subject_in_school",
+                    "count": 5403
+                }
+            ]
+        },
+        {
+            "column_name": "Agency",
+            "semantic_types": [
+                {
+                    "semantic_type": "city_agency",
+                    "label": "city_agency",
+                    "count": 1277
+                },
+                {
+                    "semantic_type": "person_name",
+                    "label": "city_agency",
+                    "count": 1277
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "city_agency",
+                    "count": 879
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "city_agency",
+                    "count": 197
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "city_agency",
+                    "count": 39
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "city_agency",
+                    "count": 32
+                },
+                {
+                    "semantic_type": "address",
+                    "label": "city_agency",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "city_agency",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "city_agency",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "city_agency",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "city_agency",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "city_agency",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "city_agency",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "city_agency",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "city_agency",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "city_agency",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "city_agency",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "city_agency",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "city_agency",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "city_agency",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "city_agency",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "city_agency",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "city_agency",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "city_agency",
+                    "count": 0
+                }
+            ]
+        },
+        {
+            "column_name": "Phone",
+            "semantic_types": [
+                {
+                    "semantic_type": "phone_number",
+                    "label": "phone_number",
+                    "count": 1093
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "phone_number",
+                    "count": 175
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "phone_number",
+                    "count": 175
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "phone_number",
+                    "count": 175
+                },
+                {
+                    "semantic_type": "person_name",
+                    "label": "phone_number",
+                    "count": 175
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "phone_number",
+                    "count": 175
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "phone_number",
+                    "count": 137
+                },
+                {
+                    "semantic_type": "address",
+                    "label": "phone_number",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "phone_number",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "phone_number",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "phone_number",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "phone_number",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "phone_number",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "phone_number",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "phone_number",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "phone_number",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "phone_number",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "phone_number",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "phone_number",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "phone_number",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "phone_number",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "phone_number",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "phone_number",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "phone_number",
+                    "count": 483
+                }
+            ]
+        },
+        {
+            "column_name": "First_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "person_name",
+                    "label": "person_name",
+                    "count": 4813
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "person_name",
+                    "count": 705
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "person_name",
+                    "count": 254
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "person_name",
+                    "count": 112
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "person_name",
+                    "count": 75
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "person_name",
+                    "count": 35
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "person_name",
+                    "count": 23
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "person_name",
+                    "count": 12
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "person_name",
+                    "count": 4
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "person_name",
+                    "count": 3
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "person_name",
+                    "count": 2
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "person_name",
+                    "count": 2
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "person_name",
+                    "count": 1
+                },
+                {
+                    "semantic_type": "address",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "person_name",
+                    "count": 67
+                }
+            ]
+        },
+        {
+            "column_name": "SCHOOL_LEVEL_",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_level",
+                    "label": "school_level",
+                    "count": 1743
+                },
+                {
+                    "semantic_type": "person_name",
+                    "label": "school_level",
+                    "count": 624
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "school_level",
+                    "count": 493
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "school_level",
+                    "count": 22
+                },
+                {
+                    "semantic_type": "address",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "school_level",
+                    "count": 0
+                }
+            ]
+        },
+        {
+            "column_name": "interest",
+            "semantic_types": [
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "area_of_study",
+                    "count": 277
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "area_of_study",
+                    "count": 132
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "area_of_study",
+                    "count": 114
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "area_of_study",
+                    "count": 67
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "area_of_study",
+                    "count": 36
+                },
+                {
+                    "semantic_type": "person_name",
+                    "label": "area_of_study",
+                    "count": 33
+                },
+                {
+                    "semantic_type": "address",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "area_of_study",
+                    "count": 153
+                }
+            ]
+        },
+        {
+            "column_name": "MANHATTAN___COOPERATIVES_COMPARABLE_PROPERTIES___Neighborhood",
+            "semantic_types": [
+                {
+                    "semantic_type": "building_classification",
+                    "label": "building_classification",
+                    "count": 2646
+                },
+                {
+                    "semantic_type": "address",
+                    "label": "building_classification",
+                    "count": 2498
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "building_classification",
+                    "count": 1551
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "building_classification",
+                    "count": 227
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "building_classification",
+                    "count": 85
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "building_classification",
+                    "count": 81
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "building_classification",
+                    "count": 31
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "building_classification",
+                    "count": 25
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "building_classification",
+                    "count": 18
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "building_classification",
+                    "count": 4
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "building_classification",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "building_classification",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "building_classification",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "building_classification",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "building_classification",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "building_classification",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "building_classification",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "person_name",
+                    "label": "building_classification",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "building_classification",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "building_classification",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "building_classification",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "building_classification",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "building_classification",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "building_classification",
+                    "count": 13082
+                }
+            ]
+        },
+        {
+            "column_name": "Address_1",
+            "semantic_types": [
+                {
+                    "semantic_type": "address",
+                    "label": "address",
+                    "count": 1976
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "address",
+                    "count": 771
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "address",
+                    "count": 342
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "address",
+                    "count": 335
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "address",
+                    "count": 183
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "address",
+                    "count": 113
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "address",
+                    "count": 71
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "address",
+                    "count": 56
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "address",
+                    "count": 32
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "address",
+                    "count": 3
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "person_name",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "address",
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "column_name": "PERSON_FIRST_NAME",
+            "semantic_types": [
+                {
+                    "semantic_type": "person_name",
+                    "label": "person_name",
+                    "count": 49853
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "person_name",
+                    "count": 7635
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "person_name",
+                    "count": 2533
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "person_name",
+                    "count": 1270
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "person_name",
+                    "count": 943
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "person_name",
+                    "count": 639
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "person_name",
+                    "count": 309
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "person_name",
+                    "count": 192
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "person_name",
+                    "count": 98
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "person_name",
+                    "count": 30
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "person_name",
+                    "count": 19
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "person_name",
+                    "count": 10
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "person_name",
+                    "count": 1
+                },
+                {
+                    "semantic_type": "address",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "person_name",
+                    "count": 1781
+                }
+            ]
+        },
+        {
+            "column_name": "Last_Name",
+            "semantic_types": [
+                {
+                    "semantic_type": "person_name",
+                    "label": "person_name",
+                    "count": 3893
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "person_name",
+                    "count": 456
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "person_name",
+                    "count": 185
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "person_name",
+                    "count": 149
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "person_name",
+                    "count": 126
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "person_name",
+                    "count": 83
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "person_name",
+                    "count": 66
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "person_name",
+                    "count": 53
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "person_name",
+                    "count": 14
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "person_name",
+                    "count": 10
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "person_name",
+                    "count": 4
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "person_name",
+                    "count": 2
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "person_name",
+                    "count": 1
+                },
+                {
+                    "semantic_type": "address",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "person_name",
+                    "count": 935
+                }
+            ]
+        },
+        {
+            "column_name": "AGENCY_NAME",
+            "semantic_types": [
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "vehicle_type",
+                    "count": 304
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "vehicle_type",
+                    "count": 224
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "vehicle_type",
+                    "count": 64
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "vehicle_type",
+                    "count": 32
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "vehicle_type",
+                    "count": 32
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "vehicle_type",
+                    "count": 32
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "vehicle_type",
+                    "count": 16
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "vehicle_type",
+                    "count": 16
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "vehicle_type",
+                    "count": 16
+                },
+                {
+                    "semantic_type": "address",
+                    "label": "vehicle_type",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "vehicle_type",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "vehicle_type",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "vehicle_type",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "vehicle_type",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "vehicle_type",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "vehicle_type",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "vehicle_type",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "person_name",
+                    "label": "vehicle_type",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "vehicle_type",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "vehicle_type",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "vehicle_type",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "vehicle_type",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "vehicle_type",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "vehicle_type",
+                    "count": 912
+                }
+            ]
+        },
+        {
+            "column_name": "interest1",
+            "semantic_types": [
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "area_of_study",
+                    "count": 213
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "area_of_study",
+                    "count": 79
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "area_of_study",
+                    "count": 48
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "area_of_study",
+                    "count": 25
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "area_of_study",
+                    "count": 16
+                },
+                {
+                    "semantic_type": "person_name",
+                    "label": "area_of_study",
+                    "count": 6
+                },
+                {
+                    "semantic_type": "address",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "area_of_study",
+                    "count": 58
+                }
+            ]
+        },
+        {
+            "column_name": "COMPARABLE_RENTAL___2__Neighborhood",
+            "semantic_types": [
+                {
+                    "semantic_type": "address",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "person_name",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "address",
+                    "count": 2961
+                }
+            ]
+        },
+        {
+            "column_name": "SCHOOL_LEVEL_",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_level",
+                    "label": "school_level",
+                    "count": 1668
+                },
+                {
+                    "semantic_type": "person_name",
+                    "label": "school_level",
+                    "count": 630
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "school_level",
+                    "count": 473
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "school_level",
+                    "count": 23
+                },
+                {
+                    "semantic_type": "address",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "school_level",
+                    "count": 0
+                }
+            ]
+        },
+        {
+            "column_name": "independentwebsite",
+            "semantic_types": [
+                {
+                    "semantic_type": "website",
+                    "label": "website",
+                    "count": 469
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "website",
+                    "count": 314
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "website",
+                    "count": 10
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "website",
+                    "count": 7
+                },
+                {
+                    "semantic_type": "address",
+                    "label": "website",
+                    "count": 6
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "website",
+                    "count": 4
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "website",
+                    "count": 4
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "website",
+                    "count": 2
+                },
+                {
+                    "semantic_type": "person_name",
+                    "label": "website",
+                    "count": 1
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "website",
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "column_name": "Location__Lat__Long_",
+            "semantic_types": [
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "lat_lon_cord",
+                    "count": 3318
+                },
+                {
+                    "semantic_type": "address",
+                    "label": "lat_lon_cord",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "lat_lon_cord",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "lat_lon_cord",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "lat_lon_cord",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "lat_lon_cord",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "lat_lon_cord",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "lat_lon_cord",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "lat_lon_cord",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "lat_lon_cord",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "lat_lon_cord",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "lat_lon_cord",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "lat_lon_cord",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "lat_lon_cord",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "person_name",
+                    "label": "lat_lon_cord",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "lat_lon_cord",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "lat_lon_cord",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "lat_lon_cord",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "lat_lon_cord",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "lat_lon_cord",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "lat_lon_cord",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "lat_lon_cord",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "lat_lon_cord",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "lat_lon_cord",
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "column_name": "Agency",
+            "semantic_types": [
+                {
+                    "semantic_type": "person_name",
+                    "label": "person_name",
+                    "count": 1750
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "person_name",
+                    "count": 1746
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "person_name",
+                    "count": 1196
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "person_name",
+                    "count": 219
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "person_name",
+                    "count": 77
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "person_name",
+                    "count": 51
+                },
+                {
+                    "semantic_type": "address",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "person_name",
+                    "count": 0
+                }
+            ]
+        },
+        {
+            "column_name": "PRINCIPAL_PHONE_NUMBER",
+            "semantic_types": [
+                {
+                    "semantic_type": "address",
+                    "label": "address",
+                    "count": 1809
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "address",
+                    "count": 1809
+                },
+                {
+                    "semantic_type": "person_name",
+                    "label": "address",
+                    "count": 9
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "address",
+                    "count": 1817
+                }
+            ]
+        },
+        {
+            "column_name": "Borough",
+            "semantic_types": [
+                {
+                    "semantic_type": "borough",
+                    "label": "borough",
+                    "count": 5
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "borough",
+                    "count": 3
+                },
+                {
+                    "semantic_type": "person_name",
+                    "label": "borough",
+                    "count": 3
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "borough",
+                    "count": 1
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "borough",
+                    "count": 1
+                },
+                {
+                    "semantic_type": "address",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "borough",
+                    "count": 334
+                }
+            ]
+        },
+        {
+            "column_name": "Borough",
+            "semantic_types": [
+                {
+                    "semantic_type": "borough",
+                    "label": "borough",
+                    "count": 331
+                },
+                {
+                    "semantic_type": "person_name",
+                    "label": "borough",
+                    "count": 231
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "borough",
+                    "count": 206
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "borough",
+                    "count": 102
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "borough",
+                    "count": 12
+                },
+                {
+                    "semantic_type": "address",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "borough",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "borough",
+                    "count": 0
+                }
+            ]
+        },
+        {
+            "column_name": "BUSINESS_NAME2",
+            "semantic_types": [
+                {
+                    "semantic_type": "business_name",
+                    "label": "business_name",
+                    "count": 511
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "business_name",
+                    "count": 453
+                },
+                {
+                    "semantic_type": "person_name",
+                    "label": "business_name",
+                    "count": 206
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "business_name",
+                    "count": 131
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "business_name",
+                    "count": 90
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "business_name",
+                    "count": 42
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "business_name",
+                    "count": 34
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "business_name",
+                    "count": 33
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "business_name",
+                    "count": 22
+                },
+                {
+                    "semantic_type": "address",
+                    "label": "business_name",
+                    "count": 15
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "business_name",
+                    "count": 6
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "business_name",
+                    "count": 2
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "business_name",
+                    "count": 1
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "business_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "business_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "business_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "business_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "business_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "business_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "business_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "business_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "business_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "business_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "business_name",
+                    "count": 622
+                }
+            ]
+        },
+        {
+            "column_name": "website",
+            "semantic_types": [
+                {
+                    "semantic_type": "website",
+                    "label": "website",
+                    "count": 429
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "website",
+                    "count": 299
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "website",
+                    "count": 16
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "website",
+                    "count": 15
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "website",
+                    "count": 5
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "website",
+                    "count": 4
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "website",
+                    "count": 2
+                },
+                {
+                    "semantic_type": "address",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "person_name",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "website",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "website",
+                    "count": 876
+                }
+            ]
+        },
+        {
+            "column_name": "address",
+            "semantic_types": [
+                {
+                    "semantic_type": "address",
+                    "label": "address",
+                    "count": 33639
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "address",
+                    "count": 12321
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "address",
+                    "count": 7667
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "address",
+                    "count": 6907
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "address",
+                    "count": 6888
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "address",
+                    "count": 4681
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "address",
+                    "count": 2012
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "address",
+                    "count": 1916
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "address",
+                    "count": 1069
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "address",
+                    "count": 1062
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "address",
+                    "count": 114
+                },
+                {
+                    "semantic_type": "person_name",
+                    "label": "address",
+                    "count": 41
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "address",
+                    "count": 2
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "address",
+                    "count": 1
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "address",
+                    "count": 1
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "address",
+                    "count": 3084
+                }
+            ]
+        },
+        {
+            "column_name": "Agency",
+            "semantic_types": [
+                {
+                    "semantic_type": "person_name",
+                    "label": "person_name",
+                    "count": 1649
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "person_name",
+                    "count": 1630
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "person_name",
+                    "count": 1135
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "person_name",
+                    "count": 233
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "person_name",
+                    "count": 81
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "person_name",
+                    "count": 38
+                },
+                {
+                    "semantic_type": "address",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "person_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "person_name",
+                    "count": 0
+                }
+            ]
+        },
+        {
+            "column_name": "School_Type",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_level",
+                    "label": "school_level",
+                    "count": 1722
+                },
+                {
+                    "semantic_type": "person_name",
+                    "label": "school_level",
+                    "count": 585
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "school_level",
+                    "count": 484
+                },
+                {
+                    "semantic_type": "address",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "school_level",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "school_level",
+                    "count": 0
+                }
+            ]
+        },
+        {
+            "column_name": "COMPARABLE_RENTAL___2__Building_Classification",
+            "semantic_types": [
+                {
+                    "semantic_type": "address",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "person_name",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "address",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "address",
+                    "count": 18226
+                }
+            ]
+        },
+        {
+            "column_name": "interest1",
+            "semantic_types": [
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "area_of_study",
+                    "count": 226
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "area_of_study",
+                    "count": 77
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "area_of_study",
+                    "count": 46
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "area_of_study",
+                    "count": 24
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "area_of_study",
+                    "count": 16
+                },
+                {
+                    "semantic_type": "person_name",
+                    "label": "area_of_study",
+                    "count": 2
+                },
+                {
+                    "semantic_type": "address",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "area_of_study",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "area_of_study",
+                    "count": 58
+                }
+            ]
+        },
+        {
+            "column_name": "QUEENS_CONDOMINIUM_PROPERTY_Building_Classification",
+            "semantic_types": [
+                {
+                    "semantic_type": "car_make",
+                    "label": "car_make",
+                    "count": 13
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "car_make",
+                    "count": 13
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "car_make",
+                    "count": 13
+                },
+                {
+                    "semantic_type": "person_name",
+                    "label": "car_make",
+                    "count": 13
+                },
+                {
+                    "semantic_type": "address",
+                    "label": "car_make",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "car_make",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "car_make",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "car_make",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "car_make",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "car_make",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "car_make",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "car_make",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "car_make",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "car_make",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "car_make",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "car_make",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "car_make",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "school_name",
+                    "label": "car_make",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "car_make",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "car_make",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "car_make",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "car_make",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "car_make",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "car_make",
+                    "count": 1676
+                }
+            ]
+        },
+        {
+            "column_name": "SCHOOL_LEVEL_",
+            "semantic_types": [
+                {
+                    "semantic_type": "school_name",
+                    "label": "school_name",
+                    "count": 1262
+                },
+                {
+                    "semantic_type": "school_level",
+                    "label": "school_name",
+                    "count": 238
+                },
+                {
+                    "semantic_type": "address",
+                    "label": "school_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "area_of_study",
+                    "label": "school_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "borough",
+                    "label": "school_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "building_classification",
+                    "label": "school_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "business_name",
+                    "label": "school_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "car_make",
+                    "label": "school_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city",
+                    "label": "school_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "city_agency",
+                    "label": "school_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "college_name",
+                    "label": "school_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "color",
+                    "label": "school_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "lat_lon_cord",
+                    "label": "school_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "location_type",
+                    "label": "school_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "neighborhood",
+                    "label": "school_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "park_playground",
+                    "label": "school_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "person_name",
+                    "label": "school_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "phone_number",
+                    "label": "school_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "street_name",
+                    "label": "school_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "subject_in_school",
+                    "label": "school_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "vehicle_type",
+                    "label": "school_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "website",
+                    "label": "school_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "zip_code",
+                    "label": "school_name",
+                    "count": 0
+                },
+                {
+                    "semantic_type": "other",
+                    "label": "school_name",
+                    "count": 0
+                }
+            ]
+        }
+    ]
+}
