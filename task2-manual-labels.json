@@ -1,0 +1,2180 @@
+{
+    "actual_types": [
+        {
+            "column_name": "website",
+            "manual_labels": [
+                {
+                    "semantic_type": "website"
+                }
+            ]
+        },
+        {
+            "column_name": "BOROUGH___COMMUNITY",
+            "manual_labels": [
+                {
+                    "semantic_type": "borough"
+                }
+            ]
+        },
+        {
+            "column_name": "CORE_SUBJECT",
+            "manual_labels": [
+                {
+                    "semantic_type": "subject_in_school"
+                }
+            ]
+        },
+        {
+            "column_name": "Location",
+            "manual_labels": [
+                {
+                    "semantic_type": "lat_lon_cord"
+                }
+            ]
+        },
+        {
+            "column_name": "Agency",
+            "manual_labels": [
+                {
+                    "semantic_type": "city_agency"
+                }
+            ]
+        },
+        {
+            "column_name": "Incident_Zip",
+            "manual_labels": [
+                {
+                    "semantic_type": "zip_code"
+                }
+            ]
+        },
+        {
+            "column_name": "Phone",
+            "manual_labels": [
+                {
+                    "semantic_type": "phone_number"
+                }
+            ]
+        },
+        {
+            "column_name": "First_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Vehicle_Color",
+            "manual_labels": [
+                {
+                    "semantic_type": "color"
+                }
+            ]
+        },
+        {
+            "column_name": "Vehicle_Color",
+            "manual_labels": [
+                {
+                    "semantic_type": "color"
+                }
+            ]
+        },
+        {
+            "column_name": "SCHOOL_LEVEL_",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_level"
+                }
+            ]
+        },
+        {
+            "column_name": "Violation_Location__City_",
+            "manual_labels": [
+                {
+                    "semantic_type": "city"
+                }
+            ]
+        },
+        {
+            "column_name": "interest",
+            "manual_labels": [
+                {
+                    "semantic_type": "area_of_study"
+                }
+            ]
+        },
+        {
+            "column_name": "MANHATTAN___COOPERATIVES_COMPARABLE_PROPERTIES___Neighborhood",
+            "manual_labels": [
+                {
+                    "semantic_type": "neighborhood"
+                }
+            ]
+        },
+        {
+            "column_name": "Address_1",
+            "manual_labels": [
+                {
+                    "semantic_type": "address"
+                }
+            ]
+        },
+        {
+            "column_name": "PERSON_FIRST_NAME",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Last_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Owner_Last_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "DBA",
+            "manual_labels": [
+                {
+                    "semantic_type": "business_name"
+                }
+            ]
+        },
+        {
+            "column_name": "City",
+            "manual_labels": [
+                {
+                    "semantic_type": "city"
+                }
+            ]
+        },
+        {
+            "column_name": "AGENCY_NAME",
+            "manual_labels": [
+                {
+                    "semantic_type": "city_agency"
+                }
+            ]
+        },
+        {
+            "column_name": "CORE_SUBJECT___MS_CORE_and__09_12_ONLY_",
+            "manual_labels": [
+                {
+                    "semantic_type": "subject_in_school"
+                }
+            ]
+        },
+        {
+            "column_name": "interest1",
+            "manual_labels": [
+                {
+                    "semantic_type": "area_of_study"
+                }
+            ]
+        },
+        {
+            "column_name": "COMPARABLE_RENTAL___2__Neighborhood",
+            "manual_labels": [
+                {
+                    "semantic_type": "neighborhood"
+                }
+            ]
+        },
+        {
+            "column_name": "SCHOOL_LEVEL_",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_level"
+                }
+            ]
+        },
+        {
+            "column_name": "independentwebsite",
+            "manual_labels": [
+                {
+                    "semantic_type": "website"
+                }
+            ]
+        },
+        {
+            "column_name": "Location__Lat__Long_",
+            "manual_labels": [
+                {
+                    "semantic_type": "lat_lon_cord"
+                }
+            ]
+        },
+        {
+            "column_name": "Agency",
+            "manual_labels": [
+                {
+                    "semantic_type": "city_agency"
+                }
+            ]
+        },
+        {
+            "column_name": "PRINCIPAL_PHONE_NUMBER",
+            "manual_labels": [
+                {
+                    "semantic_type": "phone_number"
+                }
+            ]
+        },
+        {
+            "column_name": "Borough",
+            "manual_labels": [
+                {
+                    "semantic_type": "borough"
+                }
+            ]
+        },
+        {
+            "column_name": "Borough",
+            "manual_labels": [
+                {
+                    "semantic_type": "borough"
+                }
+            ]
+        },
+        {
+            "column_name": "CORE_SUBJECT___MS_CORE_and__09_12_ONLY_",
+            "manual_labels": [
+                {
+                    "semantic_type": "subject_in_school"
+                }
+            ]
+        },
+        {
+            "column_name": "BUSINESS_NAME2",
+            "manual_labels": [
+                {
+                    "semantic_type": "business_name"
+                }
+            ]
+        },
+        {
+            "column_name": "website",
+            "manual_labels": [
+                {
+                    "semantic_type": "website"
+                }
+            ]
+        },
+        {
+            "column_name": "Vehicle_Make",
+            "manual_labels": [
+                {
+                    "semantic_type": "car_make"
+                }
+            ]
+        },
+        {
+            "column_name": "CORE_SUBJECT___MS_CORE_and__9_12_ONLY_",
+            "manual_labels": [
+                {
+                    "semantic_type": "subject_in_school"
+                }
+            ]
+        },
+        {
+            "column_name": "Vehicle_Body_Type",
+            "manual_labels": [
+                {
+                    "semantic_type": "vehicle_type"
+                }
+            ]
+        },
+        {
+            "column_name": "address",
+            "manual_labels": [
+                {
+                    "semantic_type": "address"
+                }
+            ]
+        },
+        {
+            "column_name": "Vehicle_Color",
+            "manual_labels": [
+                {
+                    "semantic_type": "color"
+                }
+            ]
+        },
+        {
+            "column_name": "Agency",
+            "manual_labels": [
+                {
+                    "semantic_type": "city_agency"
+                }
+            ]
+        },
+        {
+            "column_name": "CORE_SUBJECT__MS_CORE_and_9_12_ONLY_",
+            "manual_labels": [
+                {
+                    "semantic_type": "subject_in_school"
+                }
+            ]
+        },
+        {
+            "column_name": "School_Type",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_level"
+                }
+            ]
+        },
+        {
+            "column_name": "Vehicle_Make",
+            "manual_labels": [
+                {
+                    "semantic_type": "car_make"
+                }
+            ]
+        },
+        {
+            "column_name": "Vehicle_Body_Type",
+            "manual_labels": [
+                {
+                    "semantic_type": "vehicle_type"
+                }
+            ]
+        },
+        {
+            "column_name": "COMPARABLE_RENTAL___2__Building_Classification",
+            "manual_labels": [
+                {
+                    "semantic_type": "building_classification"
+                }
+            ]
+        },
+        {
+            "column_name": "interest1",
+            "manual_labels": [
+                {
+                    "semantic_type": "area_of_study"
+                }
+            ]
+        },
+        {
+            "column_name": "QUEENS_CONDOMINIUM_PROPERTY_Building_Classification",
+            "manual_labels": [
+                {
+                    "semantic_type": "building_classification"
+                }
+            ]
+        },
+        {
+            "column_name": "SCHOOL_LEVEL_",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_level"
+                }
+            ]
+        },
+        {
+            "column_name": "ZIP",
+            "manual_labels": [
+                {
+                    "semantic_type": "zip_code"
+                }
+            ]
+        },
+        {
+            "column_name": "Vehicle_Color",
+            "manual_labels": [
+                {
+                    "semantic_type": "color"
+                }
+            ]
+        },
+        {
+            "column_name": "PHONE",
+            "manual_labels": [
+                {
+                    "semantic_type": "phone_number"
+                }
+            ]
+        },
+        {
+            "column_name": "MI",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "PREM_TYP_DESC",
+            "manual_labels": [
+                {
+                    "semantic_type": "location_type"
+                }
+            ]
+        },
+        {
+            "column_name": "SCHOOL",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_name"
+                }
+            ]
+        },
+        {
+            "column_name": "ADDRESS",
+            "manual_labels": [
+                {
+                    "semantic_type": "address"
+                }
+            ]
+        },
+        {
+            "column_name": "CORE_SUBJECT___MS_CORE_and__09_12_ONLY_",
+            "manual_labels": [
+                {
+                    "semantic_type": "subject_in_school"
+                }
+            ]
+        },
+        {
+            "column_name": "Owner_s_House_Zip_Code",
+            "manual_labels": [
+                {
+                    "semantic_type": "zip_code"
+                }
+            ]
+        },
+        {
+            "column_name": "company_phone",
+            "manual_labels": [
+                {
+                    "semantic_type": "phone_number"
+                }
+            ]
+        },
+        {
+            "column_name": "MI",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "VEHICLE_MAKE",
+            "manual_labels": [
+                {
+                    "semantic_type": "car_make"
+                }
+            ]
+        },
+        {
+            "column_name": "SCHOOL_NAME",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_name"
+                }
+            ]
+        },
+        {
+            "column_name": "BusinessName",
+            "manual_labels": [
+                {
+                    "semantic_type": "business_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Location",
+            "manual_labels": [
+                {
+                    "semantic_type": "lat_lon_cord"
+                }
+            ]
+        },
+        {
+            "column_name": "CORE_SUBJECT",
+            "manual_labels": [
+                {
+                    "semantic_type": "subject_in_school"
+                }
+            ]
+        },
+        {
+            "column_name": "Street_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "street_name"
+                }
+            ]
+        },
+        {
+            "column_name": "MANHATTAN___COOPERATIVES_COMPARABLE_PROPERTIES___Building_Classification",
+            "manual_labels": [
+                {
+                    "semantic_type": "building_classification"
+                }
+            ]
+        },
+        {
+            "column_name": "FirstName",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "SCHOOL_LEVEL_",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_level"
+                }
+            ]
+        },
+        {
+            "column_name": "VEHICLE_TYPE_CODE_2",
+            "manual_labels": [
+                {
+                    "semantic_type": "vehicle_type"
+                }
+            ]
+        },
+        {
+            "column_name": "Vehicle_Make",
+            "manual_labels": [
+                {
+                    "semantic_type": "car_make"
+                }
+            ]
+        },
+        {
+            "column_name": "Intersection_Street_2",
+            "manual_labels": [
+                {
+                    "semantic_type": "street_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Street_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "street_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Park_Facility_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "park_playground"
+                }
+            ]
+        },
+        {
+            "column_name": "parkname",
+            "manual_labels": [
+                {
+                    "semantic_type": "park_playground"
+                }
+            ]
+        },
+        {
+            "column_name": "CORE_COURSE__MS_CORE_and_9_12_ONLY_",
+            "manual_labels": [
+                {
+                    "semantic_type": "subject_in_school"
+                }
+            ]
+        },
+        {
+            "column_name": "SCHOOL",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Website",
+            "manual_labels": [
+                {
+                    "semantic_type": "website"
+                }
+            ]
+        },
+        {
+            "column_name": "License_Business_City",
+            "manual_labels": [
+                {
+                    "semantic_type": "city"
+                }
+            ]
+        },
+        {
+            "column_name": "PERSON_LAST_NAME",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "CORE_SUBJECT",
+            "manual_labels": [
+                {
+                    "semantic_type": "subject_in_school"
+                }
+            ]
+        },
+        {
+            "column_name": "Neighborhood_2",
+            "manual_labels": [
+                {
+                    "semantic_type": "neighborhood"
+                }
+            ]
+        },
+        {
+            "column_name": "DBA",
+            "manual_labels": [
+                {
+                    "semantic_type": "business_name"
+                }
+            ]
+        },
+        {
+            "column_name": "BROOKLYN_CONDOMINIUM_PROPERTY_Building_Classification",
+            "manual_labels": [
+                {
+                    "semantic_type": "building_classification"
+                }
+            ]
+        },
+        {
+            "column_name": "neighborhood",
+            "manual_labels": [
+                {
+                    "semantic_type": "neighborhood"
+                }
+            ]
+        },
+        {
+            "column_name": "Vehicle_Make",
+            "manual_labels": [
+                {
+                    "semantic_type": "car_make"
+                }
+            ]
+        },
+        {
+            "column_name": "Name__Last__First_",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Street",
+            "manual_labels": [
+                {
+                    "semantic_type": "street_name"
+                }
+            ]
+        },
+        {
+            "column_name": "COMPARABLE_RENTAL___1__Neighborhood",
+            "manual_labels": [
+                {
+                    "semantic_type": "neighborhood"
+                }
+            ]
+        },
+        {
+            "column_name": "org_neighborhood",
+            "manual_labels": [
+                {
+                    "semantic_type": "neighborhood"
+                }
+            ]
+        },
+        {
+            "column_name": "ZIP",
+            "manual_labels": [
+                {
+                    "semantic_type": "zip_code"
+                }
+            ]
+        },
+        {
+            "column_name": "Landmark",
+            "manual_labels": [
+                {
+                    "semantic_type": "street_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Borough",
+            "manual_labels": [
+                {
+                    "semantic_type": "borough"
+                }
+            ]
+        },
+        {
+            "column_name": "Violation_Location__Zip_Code_",
+            "manual_labels": [
+                {
+                    "semantic_type": "zip_code"
+                }
+            ]
+        },
+        {
+            "column_name": "School_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_name"
+                }
+            ]
+        },
+        {
+            "column_name": "SCHOOL_LEVEL_",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_level"
+                }
+            ]
+        },
+        {
+            "column_name": "PRINCIPAL_PHONE_NUMBER",
+            "manual_labels": [
+                {
+                    "semantic_type": "phone_number"
+                }
+            ]
+        },
+        {
+            "column_name": "STATEN_ISLAND_CONDOMINIUM_PROPERTY_Neighborhood",
+            "manual_labels": [
+                {
+                    "semantic_type": "neighborhood"
+                }
+            ]
+        },
+        {
+            "column_name": "City",
+            "manual_labels": [
+                {
+                    "semantic_type": "city"
+                }
+            ]
+        },
+        {
+            "column_name": "Intersection_Street_2",
+            "manual_labels": [
+                {
+                    "semantic_type": "street_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Last_Name__only_2014_15_",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "RESPONDENT_CITY",
+            "manual_labels": [
+                {
+                    "semantic_type": "city"
+                }
+            ]
+        },
+        {
+            "column_name": "CANDMI",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Street_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "street_name"
+                }
+            ]
+        },
+        {
+            "column_name": "School_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_name"
+                }
+            ]
+        },
+        {
+            "column_name": "COMPARABLE_RENTAL___2___Neighborhood",
+            "manual_labels": [
+                {
+                    "semantic_type": "neighborhood"
+                }
+            ]
+        },
+        {
+            "column_name": "Agency",
+            "manual_labels": [
+                {
+                    "semantic_type": "city_agency"
+                }
+            ]
+        },
+        {
+            "column_name": "LOCATION",
+            "manual_labels": [
+                {
+                    "semantic_type": "lat_lon_cord"
+                }
+            ]
+        },
+        {
+            "column_name": "INTEREST",
+            "manual_labels": [
+                {
+                    "semantic_type": "area_of_study"
+                }
+            ]
+        },
+        {
+            "column_name": "First_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "AUTH_REP_FIRST_NAME",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "PREM_TYP_DESC",
+            "manual_labels": [
+                {
+                    "semantic_type": "location_type"
+                }
+            ]
+        },
+        {
+            "column_name": "VEHICLE_TYPE_CODE_3",
+            "manual_labels": [
+                {
+                    "semantic_type": "vehicle_type"
+                }
+            ]
+        },
+        {
+            "column_name": "SCHOOL_LEVEL_",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_level"
+                }
+            ]
+        },
+        {
+            "column_name": "Location",
+            "manual_labels": [
+                {
+                    "semantic_type": "lat_lon_cord"
+                }
+            ]
+        },
+        {
+            "column_name": "Agency",
+            "manual_labels": [
+                {
+                    "semantic_type": "city_agency"
+                }
+            ]
+        },
+        {
+            "column_name": "CANDMI",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "TOP_VEHICLE_MODELS___5",
+            "manual_labels": [
+                {
+                    "semantic_type": "car_make"
+                }
+            ]
+        },
+        {
+            "column_name": "ZIP",
+            "manual_labels": [
+                {
+                    "semantic_type": "zip_code"
+                }
+            ]
+        },
+        {
+            "column_name": "SCHOOL_LEVEL_",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_level"
+                }
+            ]
+        },
+        {
+            "column_name": "Cross_Street_2",
+            "manual_labels": [
+                {
+                    "semantic_type": "street_name"
+                }
+            ]
+        },
+        {
+            "column_name": "SCHOOL_LEVEL_",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_level"
+                }
+            ]
+        },
+        {
+            "column_name": "CORE_SUBJECT___MS_CORE_and__09_12_ONLY_",
+            "manual_labels": [
+                {
+                    "semantic_type": "subject_in_school"
+                }
+            ]
+        },
+        {
+            "column_name": "NeighborhoodName",
+            "manual_labels": [
+                {
+                    "semantic_type": "neighborhood"
+                }
+            ]
+        },
+        {
+            "column_name": "CrossStreetName",
+            "manual_labels": [
+                {
+                    "semantic_type": "street_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Site_Safety_Mgr_s_Last_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Borough",
+            "manual_labels": [
+                {
+                    "semantic_type": "borough"
+                }
+            ]
+        },
+        {
+            "column_name": "School_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_name"
+                }
+            ]
+        },
+        {
+            "column_name": "CITY",
+            "manual_labels": [
+                {
+                    "semantic_type": "city"
+                }
+            ]
+        },
+        {
+            "column_name": "Vehicle_Color",
+            "manual_labels": [
+                {
+                    "semantic_type": "color"
+                }
+            ]
+        },
+        {
+            "column_name": "Location_1",
+            "manual_labels": [
+                {
+                    "semantic_type": "lat_lon_cord"
+                }
+            ]
+        },
+        {
+            "column_name": "Incident_Zip",
+            "manual_labels": [
+                {
+                    "semantic_type": "zip_code"
+                }
+            ]
+        },
+        {
+            "column_name": "INPUT_1_Borough",
+            "manual_labels": [
+                {
+                    "semantic_type": "borough"
+                }
+            ]
+        },
+        {
+            "column_name": "Business_Phone_Number",
+            "manual_labels": [
+                {
+                    "semantic_type": "phone_number"
+                }
+            ]
+        },
+        {
+            "column_name": "Cross_Street_1",
+            "manual_labels": [
+                {
+                    "semantic_type": "street_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Owner_s_Business_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "business_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Respondent_Address__Zip_Code_",
+            "manual_labels": [
+                {
+                    "semantic_type": "zip_code"
+                }
+            ]
+        },
+        {
+            "column_name": "Street_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "street_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Prequalified_Vendor_Address",
+            "manual_labels": [
+                {
+                    "semantic_type": "address"
+                }
+            ]
+        },
+        {
+            "column_name": "Vehicle_Make",
+            "manual_labels": [
+                {
+                    "semantic_type": "car_make"
+                }
+            ]
+        },
+        {
+            "column_name": "DVC_MAKE",
+            "manual_labels": [
+                {
+                    "semantic_type": "car_make"
+                }
+            ]
+        },
+        {
+            "column_name": "Color",
+            "manual_labels": [
+                {
+                    "semantic_type": "color"
+                }
+            ]
+        },
+        {
+            "column_name": "Park_Facility_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "park_playground"
+                }
+            ]
+        },
+        {
+            "column_name": "Owner_First_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "SCHOOL_LEVEL_",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_level"
+                }
+            ]
+        },
+        {
+            "column_name": "DBA",
+            "manual_labels": [
+                {
+                    "semantic_type": "business_name"
+                }
+            ]
+        },
+        {
+            "column_name": "StartCity",
+            "manual_labels": [
+                {
+                    "semantic_type": "city"
+                }
+            ]
+        },
+        {
+            "column_name": "MI",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "COMPARABLE_RENTAL_2__Building_Classification",
+            "manual_labels": [
+                {
+                    "semantic_type": "building_classification"
+                }
+            ]
+        },
+        {
+            "column_name": "SCHOOL_LEVEL_",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_level"
+                }
+            ]
+        },
+        {
+            "column_name": "Vehicle_Body_Type",
+            "manual_labels": [
+                {
+                    "semantic_type": "vehicle_type"
+                }
+            ]
+        },
+        {
+            "column_name": "Vehicle_Make",
+            "manual_labels": [
+                {
+                    "semantic_type": "car_make"
+                }
+            ]
+        },
+        {
+            "column_name": "interest4",
+            "manual_labels": [
+                {
+                    "semantic_type": "area_of_study"
+                }
+            ]
+        },
+        {
+            "column_name": "CrossStreet2",
+            "manual_labels": [
+                {
+                    "semantic_type": "street_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Cross_Street_2",
+            "manual_labels": [
+                {
+                    "semantic_type": "street_name"
+                }
+            ]
+        },
+        {
+            "column_name": "SCHOOL_LEVEL_",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_level"
+                }
+            ]
+        },
+        {
+            "column_name": "BRONX_CONDOMINIUM_PROPERTY_Building_Classification",
+            "manual_labels": [
+                {
+                    "semantic_type": "building_classification"
+                }
+            ]
+        },
+        {
+            "column_name": "interest3",
+            "manual_labels": [
+                {
+                    "semantic_type": "area_of_study"
+                }
+            ]
+        },
+        {
+            "column_name": "Zip",
+            "manual_labels": [
+                {
+                    "semantic_type": "zip_code"
+                }
+            ]
+        },
+        {
+            "column_name": "CANDMI",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "DVV_MAKE",
+            "manual_labels": [
+                {
+                    "semantic_type": "car_make"
+                }
+            ]
+        },
+        {
+            "column_name": "BROOKLYN_CONDOMINIUM_PROPERTY_Neighborhood",
+            "manual_labels": [
+                {
+                    "semantic_type": "neighborhood"
+                }
+            ]
+        },
+        {
+            "column_name": "Applicant_s_First_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Vehicle_Color",
+            "manual_labels": [
+                {
+                    "semantic_type": "color"
+                }
+            ]
+        },
+        {
+            "column_name": "BOROUGH",
+            "manual_labels": [
+                {
+                    "semantic_type": "borough"
+                }
+            ]
+        },
+        {
+            "column_name": "Location",
+            "manual_labels": [
+                {
+                    "semantic_type": "lat_lon_cord"
+                }
+            ]
+        },
+        {
+            "column_name": "Establishment_Street",
+            "manual_labels": [
+                {
+                    "semantic_type": "street_name"
+                }
+            ]
+        },
+        {
+            "column_name": "StreetName",
+            "manual_labels": [
+                {
+                    "semantic_type": "street_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Vehicle_Body_Type",
+            "manual_labels": [
+                {
+                    "semantic_type": "vehicle_type"
+                }
+            ]
+        },
+        {
+            "column_name": "Respondent_Address__City_",
+            "manual_labels": [
+                {
+                    "semantic_type": "city"
+                }
+            ]
+        },
+        {
+            "column_name": "Cross_Street_1",
+            "manual_labels": [
+                {
+                    "semantic_type": "street_name"
+                }
+            ]
+        },
+        {
+            "column_name": "address_1",
+            "manual_labels": [
+                {
+                    "semantic_type": "address"
+                }
+            ]
+        },
+        {
+            "column_name": "Filing_Representative_First_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "PRINCIPAL_PHONE_NUMBER",
+            "manual_labels": [
+                {
+                    "semantic_type": "phone_number"
+                }
+            ]
+        },
+        {
+            "column_name": "CrossStreet2",
+            "manual_labels": [
+                {
+                    "semantic_type": "street_name"
+                }
+            ]
+        },
+        {
+            "column_name": "School_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_name"
+                }
+            ]
+        },
+        {
+            "column_name": "_Phone",
+            "manual_labels": [
+                {
+                    "semantic_type": "phone_number"
+                }
+            ]
+        },
+        {
+            "column_name": "School_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Vehicle_Make",
+            "manual_labels": [
+                {
+                    "semantic_type": "car_make"
+                }
+            ]
+        },
+        {
+            "column_name": "CrossStreet2",
+            "manual_labels": [
+                {
+                    "semantic_type": "street_name"
+                }
+            ]
+        },
+        {
+            "column_name": "School_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_name"
+                }
+            ]
+        },
+        {
+            "column_name": "interest1",
+            "manual_labels": [
+                {
+                    "semantic_type": "area_of_study"
+                }
+            ]
+        },
+        {
+            "column_name": "BRONX_CONDOMINIUM_PROPERTY_Neighborhood",
+            "manual_labels": [
+                {
+                    "semantic_type": "neighborhood"
+                }
+            ]
+        },
+        {
+            "column_name": "Agency_ID",
+            "manual_labels": [
+                {
+                    "semantic_type": "city_agency"
+                }
+            ]
+        },
+        {
+            "column_name": "Vehicle_Body_Type",
+            "manual_labels": [
+                {
+                    "semantic_type": "vehicle_type"
+                }
+            ]
+        },
+        {
+            "column_name": "Location",
+            "manual_labels": [
+                {
+                    "semantic_type": "lat_lon_cord"
+                }
+            ]
+        },
+        {
+            "column_name": "VEHICLE_TYPE_CODE_4",
+            "manual_labels": [
+                {
+                    "semantic_type": "vehicle_type"
+                }
+            ]
+        },
+        {
+            "column_name": "Street_Address",
+            "manual_labels": [
+                {
+                    "semantic_type": "address"
+                }
+            ]
+        },
+        {
+            "column_name": "FromStreetName",
+            "manual_labels": [
+                {
+                    "semantic_type": "street_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Incident_Zip",
+            "manual_labels": [
+                {
+                    "semantic_type": "zip_code"
+                }
+            ]
+        },
+        {
+            "column_name": "STATEN_ISLAND_CONDOMINIUM_PROPERTY_Neighborhood",
+            "manual_labels": [
+                {
+                    "semantic_type": "neighborhood"
+                }
+            ]
+        },
+        {
+            "column_name": "CANDMI",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Provider_First_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "School_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_name"
+                }
+            ]
+        },
+        {
+            "column_name": "School_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_name"
+                }
+            ]
+        },
+        {
+            "column_name": "DVT_MAKE",
+            "manual_labels": [
+                {
+                    "semantic_type": "car_make"
+                }
+            ]
+        },
+        {
+            "column_name": "SCHOOL_LEVEL_",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_level"
+                }
+            ]
+        },
+        {
+            "column_name": "Website",
+            "manual_labels": [
+                {
+                    "semantic_type": "website"
+                }
+            ]
+        },
+        {
+            "column_name": "Provider_Last_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "interest4",
+            "manual_labels": [
+                {
+                    "semantic_type": "area_of_study"
+                }
+            ]
+        },
+        {
+            "column_name": "TruckMake",
+            "manual_labels": [
+                {
+                    "semantic_type": "car_make"
+                }
+            ]
+        },
+        {
+            "column_name": "website",
+            "manual_labels": [
+                {
+                    "semantic_type": "website"
+                }
+            ]
+        },
+        {
+            "column_name": "owner_city",
+            "manual_labels": [
+                {
+                    "semantic_type": "city"
+                }
+            ]
+        },
+        {
+            "column_name": "HOUSE_NUMBER",
+            "manual_labels": [
+                {
+                    "semantic_type": "other"
+                }
+            ]
+        },
+        {
+            "column_name": "BROOKLYN___COOPERATIVES_COMPARABLE_PROPERTIES___Building_Classification",
+            "manual_labels": [
+                {
+                    "semantic_type": "building_classification"
+                }
+            ]
+        },
+        {
+            "column_name": "Agency",
+            "manual_labels": [
+                {
+                    "semantic_type": "city_agency"
+                }
+            ]
+        },
+        {
+            "column_name": "City",
+            "manual_labels": [
+                {
+                    "semantic_type": "city_agency"
+                }
+            ]
+        },
+        {
+            "column_name": "Vendor_DBA",
+            "manual_labels": [
+                {
+                    "semantic_type": "business_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Borough",
+            "manual_labels": [
+                {
+                    "semantic_type": "borough"
+                }
+            ]
+        },
+        {
+            "column_name": "School_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_name"
+                }
+            ]
+        },
+        {
+            "column_name": "interest6",
+            "manual_labels": [
+                {
+                    "semantic_type": "area_of_study"
+                }
+            ]
+        },
+        {
+            "column_name": "Agency_Website",
+            "manual_labels": [
+                {
+                    "semantic_type": "website"
+                }
+            ]
+        },
+        {
+            "column_name": "APPLICANT_FIRST_NAME",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Incident_Zip",
+            "manual_labels": [
+                {
+                    "semantic_type": "zip_code"
+                }
+            ]
+        },
+        {
+            "column_name": "DBA",
+            "manual_labels": [
+                {
+                    "semantic_type": "business_name"
+                }
+            ]
+        },
+        {
+            "column_name": "BOROUGH",
+            "manual_labels": [
+                {
+                    "semantic_type": "borough"
+                }
+            ]
+        },
+        {
+            "column_name": "telephone",
+            "manual_labels": [
+                {
+                    "semantic_type": "phone_number"
+                }
+            ]
+        },
+        {
+            "column_name": "StreetName",
+            "manual_labels": [
+                {
+                    "semantic_type": "street_name"
+                }
+            ]
+        },
+        {
+            "column_name": "COMPARABLE_RENTAL___1__Building_Classification",
+            "manual_labels": [
+                {
+                    "semantic_type": "building_classification"
+                }
+            ]
+        },
+        {
+            "column_name": "CORE_SUBJECT_9_12_ONLY_",
+            "manual_labels": [
+                {
+                    "semantic_type": "subject_in_school"
+                }
+            ]
+        },
+        {
+            "column_name": "TOSTREETNAME",
+            "manual_labels": [
+                {
+                    "semantic_type": "street_name"
+                }
+            ]
+        },
+        {
+            "column_name": "BORO",
+            "manual_labels": [
+                {
+                    "semantic_type": "borough"
+                }
+            ]
+        },
+        {
+            "column_name": "Middle_Initial",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Agency",
+            "manual_labels": [
+                {
+                    "semantic_type": "city_agency"
+                }
+            ]
+        },
+        {
+            "column_name": "LOCATION",
+            "manual_labels": [
+                {
+                    "semantic_type": "lat_lon_cord"
+                }
+            ]
+        },
+        {
+            "column_name": "WEBSITE",
+            "manual_labels": [
+                {
+                    "semantic_type": "website"
+                }
+            ]
+        },
+        {
+            "column_name": "Owner_s__Phone__",
+            "manual_labels": [
+                {
+                    "semantic_type": "phone_number"
+                }
+            ]
+        },
+        {
+            "column_name": "CORE_SUBJECT___MS_CORE_and__09_12_ONLY_",
+            "manual_labels": [
+                {
+                    "semantic_type": "subject_in_school"
+                }
+            ]
+        },
+        {
+            "column_name": "Agency",
+            "manual_labels": [
+                {
+                    "semantic_type": "city_agency"
+                }
+            ]
+        },
+        {
+            "column_name": "AUTH_REP_LAST_NAME",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Website",
+            "manual_labels": [
+                {
+                    "semantic_type": "website"
+                }
+            ]
+        },
+        {
+            "column_name": "VEHICLE_TYPE_CODE_5",
+            "manual_labels": [
+                {
+                    "semantic_type": "vehicle_type"
+                }
+            ]
+        },
+        {
+            "column_name": "Park_Facility_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "park_playground"
+                }
+            ]
+        },
+        {
+            "column_name": "Site_Safety_Mgr_s_Last_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "VEHICLE_TYPE_CODE_1",
+            "manual_labels": [
+                {
+                    "semantic_type": "vehicle_type"
+                }
+            ]
+        },
+        {
+            "column_name": "Site_Safety_Mgr_s_First_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "City",
+            "manual_labels": [
+                {
+                    "semantic_type": "city_agency"
+                }
+            ]
+        },
+        {
+            "column_name": "BORO",
+            "manual_labels": [
+                {
+                    "semantic_type": "borough"
+                }
+            ]
+        },
+        {
+            "column_name": "Address_1__self_reported_",
+            "manual_labels": [
+                {
+                    "semantic_type": "address"
+                }
+            ]
+        },
+        {
+            "column_name": "Vehicle_Body_Type",
+            "manual_labels": [
+                {
+                    "semantic_type": "vehicle_type"
+                }
+            ]
+        },
+        {
+            "column_name": "Neighborhood",
+            "manual_labels": [
+                {
+                    "semantic_type": "neighborhood"
+                }
+            ]
+        },
+        {
+            "column_name": "CORE_COURSE_9_12_ONLY_",
+            "manual_labels": [
+                {
+                    "semantic_type": "subject_in_school"
+                }
+            ]
+        },
+        {
+            "column_name": "School_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Address_1__self_reported_",
+            "manual_labels": [
+                {
+                    "semantic_type": "address"
+                }
+            ]
+        },
+        {
+            "column_name": "Address",
+            "manual_labels": [
+                {
+                    "semantic_type": "address"
+                }
+            ]
+        },
+        {
+            "column_name": "SCHOOL_LEVEL_",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_level"
+                }
+            ]
+        },
+        {
+            "column_name": "Park_Site_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "park_playground"
+                }
+            ]
+        },
+        {
+            "column_name": "Address",
+            "manual_labels": [
+                {
+                    "semantic_type": "address"
+                }
+            ]
+        },
+        {
+            "column_name": "STREET_NAME",
+            "manual_labels": [
+                {
+                    "semantic_type": "street_name"
+                }
+            ]
+        },
+        {
+            "column_name": "interest5",
+            "manual_labels": [
+                {
+                    "semantic_type": "area_of_study"
+                }
+            ]
+        },
+        {
+            "column_name": "Vehicle_Color",
+            "manual_labels": [
+                {
+                    "semantic_type": "color"
+                }
+            ]
+        },
+        {
+            "column_name": "School_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "school_name"
+                }
+            ]
+        },
+        {
+            "column_name": "CORE_SUBJECT___MS_CORE_and__09_12_ONLY_",
+            "manual_labels": [
+                {
+                    "semantic_type": "subject_in_school"
+                }
+            ]
+        },
+        {
+            "column_name": "Vehicle_Make",
+            "manual_labels": [
+                {
+                    "semantic_type": "vehicle_type"
+                }
+            ]
+        },
+        {
+            "column_name": "MANHATTAN___COOPERATIVES_COMPARABLE_PROPERTIES___Building_Classification",
+            "manual_labels": [
+                {
+                    "semantic_type": "building_classification"
+                }
+            ]
+        },
+        {
+            "column_name": "BORO",
+            "manual_labels": [
+                {
+                    "semantic_type": "borough"
+                }
+            ]
+        },
+        {
+            "column_name": "LastName",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Location_1",
+            "manual_labels": [
+                {
+                    "semantic_type": "lat_lon_cord"
+                }
+            ]
+        },
+        {
+            "column_name": "BOROUGH",
+            "manual_labels": [
+                {
+                    "semantic_type": "borough"
+                }
+            ]
+        },
+        {
+            "column_name": "Agency",
+            "manual_labels": [
+                {
+                    "semantic_type": "city_agency"
+                }
+            ]
+        },
+        {
+            "column_name": "QUEENS_CONDOMINIUM_PROPERTY_Neighborhood",
+            "manual_labels": [
+                {
+                    "semantic_type": "neighborhood"
+                }
+            ]
+        },
+        {
+            "column_name": "First_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Park_Facility_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "park_playground"
+                }
+            ]
+        },
+        {
+            "column_name": "Vehicle_Make",
+            "manual_labels": [
+                {
+                    "semantic_type": "vehicle_type"
+                }
+            ]
+        },
+        {
+            "column_name": "Agency_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "city_agency"
+                }
+            ]
+        },
+        {
+            "column_name": "BROOKLYN_CONDOMINIUM_PROPERTY_Building_Classification",
+            "manual_labels": [
+                {
+                    "semantic_type": "building_classification"
+                }
+            ]
+        },
+        {
+            "column_name": "OWNER_BUS_STREET_NAME",
+            "manual_labels": [
+                {
+                    "semantic_type": "street_name"
+                }
+            ]
+        },
+        {
+            "column_name": "CORE_COURSE__MS_CORE_and_9_12_ONLY_",
+            "manual_labels": [
+                {
+                    "semantic_type": "color"
+                }
+            ]
+        },
+        {
+            "column_name": "CITY",
+            "manual_labels": [
+                {
+                    "semantic_type": "city"
+                }
+            ]
+        },
+        {
+            "column_name": "Applicant_Last_Name",
+            "manual_labels": [
+                {
+                    "semantic_type": "person_name"
+                }
+            ]
+        },
+        {
+            "column_name": "Address1",
+            "manual_labels": [
+                {
+                    "semantic_type": "address"
+                }
+            ]
+        },
+        {
+            "column_name": "Vehicle_Body_Type",
+            "manual_labels": [
+                {
+                    "semantic_type": "vehicle_type"
+                }
+            ]
+        },
+        {
+            "column_name": "Phone_Number",
+            "manual_labels": [
+                {
+                    "semantic_type": "phone_number"
+                }
+            ]
+        }
+    ]
+}
